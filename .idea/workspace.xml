@@ -10,6 +10,13 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -29,11 +36,46 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.dayTwoTwo">
+    <configuration name="dayOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dayOne" />
+      <module name="Adwent-ov-Koude" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dayTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dayTwo" />
+      <module name="Adwent-ov-Koude" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dayTwoOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dayTwoOne" />
+      <module name="Adwent-ov-Koude" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dayTwoTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dayTwoTwo" />
+      <module name="Adwent-ov-Koude" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -45,6 +87,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.dayTwoTwo" />
+        <item itemvalue="Application.dayTwoOne" />
+        <item itemvalue="Application.dayTwo" />
+        <item itemvalue="Application.dayOne" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -54,7 +104,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608308057553</updated>
-      <workItem from="1608308059033" duration="9000" />
+      <workItem from="1608308059033" duration="8142000" />
     </task>
     <servers />
   </component>
@@ -66,5 +116,21 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="440" y="83" key="#Project_Structure/1920.320.1920.1019/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1608308066468" />
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1608318816370">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom/1920.320.1920.1019/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1608318816370" />
+    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1608318816369">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.center/1920.320.1920.1019/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1608318816369" />
+    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1608318816368">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.left/1920.320.1920.1019/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1608318816368" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1608318816369">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.right/1920.320.1920.1019/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1608318816369" />
   </component>
 </project>
